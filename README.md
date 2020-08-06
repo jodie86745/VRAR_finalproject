@@ -1,4 +1,4 @@
-##This is a final project of the course " Virtual Reality and Augmented Reality" #
+This is a final project of the course " Virtual Reality and Augmented Reality" 
 
 It's a room escape game.
 
